@@ -1,0 +1,15 @@
+QLabel {
+	border-radius:0px;
+	color: #F0F0F0;
+	background-color:rgba(0,0,0,0);
+	border-style:none;
+}
+
+QLineEdit {
+        border: 1px solid #5CACEE;
+        border-radius: 5px;
+        padding: 2px;
+        background: none;
+        selection-background-color: #1B89CA;
+}
+

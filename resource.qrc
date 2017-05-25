@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/myliuyan.png</file>
+        <file>image/my.qss</file>
+    </qresource>
+</RCC>
